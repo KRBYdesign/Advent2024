@@ -1,0 +1,13 @@
+{
+    "name": "kyle/advent2024",
+    "description": "my 2024 advent of code in php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Beasley",
+            "email": "kyle.beasley17@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
